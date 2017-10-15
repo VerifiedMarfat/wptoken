@@ -12,6 +12,6 @@
 0. Visit [http://localhost:8080](http://localhost:8080) and start working from within the src directory!
 
 **NB**
-You can see the available project commands with `make commands` and some of your own inside the Makefile!
+You can see the available project commands with `make commands` and add some of your own commands inside the Makefile!
 
 Happy coding!
